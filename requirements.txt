@@ -1,2 +1,4 @@
 dashscope
 python-dotenv
+
+openai
